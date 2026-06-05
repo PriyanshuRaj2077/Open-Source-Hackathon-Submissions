@@ -3,54 +3,42 @@
 ## Participant Details
 
 **Full Name:**
-
-<!-- Priyanshu Raj -->
+Priyanshu Raj
 
 **GitHub Username:**
-
-<!-- PriyanshuRaj2077 -->
+PriyanshuRaj2077
 
 **Team Name:**
-
-<!-- Titans -->
+Titans
 
 **College/University:**
-
-<!-- Lakshmi Narain College of Technology (LNCT), Bhopal -->
+Lakshmi Narain College of Technology (LNCT), Bhopal
 
 ---
 
 ## Project Details
 
 **Project Title:**
-
-<!-- Monkey the Monk -->
+Monkey the Monk
 
 **Project Description:**
-
-<!--
 Monkey the Monk is a productivity-focused learning platform designed for students who save hundreds of tutorials but struggle to complete them consistently. The platform transforms YouTube playlists into structured daily learning plans by automatically fetching playlist videos and generating personalized schedules.
 
 It combines playlist-based learning, Pomodoro focus sessions, task management, habit tracking, journaling, calendar planning, and progress analytics into a single distraction-free environment. Users can track learning consistency, manage recurring tasks, review progress, and build sustainable learning habits over time.
 
 Built around the philosophy of transforming distracted learners into focused and disciplined learners, Monkey the Monk encourages consistency, focused execution, and long-term growth through structured learning workflows.
--->
 
 **Tech Stack Used:**
-
-<!-- HTML5, CSS3, Vanilla JavaScript, Vercel Serverless Functions, YouTube Data API v3, localStorage -->
+HTML5, CSS3, Vanilla JavaScript, Vercel Serverless Functions, YouTube Data API v3, localStorage
 
 **GitHub Repository Link:**
-
-<!-- https://github.com/PriyanshuRaj2077/monkey-the-monk -->
+https://github.com/PriyanshuRaj2077/monkey-the-monk
 
 **Live Demo Link:**
-
-<!-- https://monkey-the-monk.vercel.app/ -->
+https://monkey-the-monk.vercel.app/
 
 **Presentation / Demo Video Link:**
-
-<!-- https://youtu.be/PnN_LsE2IeA -->
+https://youtu.be/PnN_LsE2IeA
 
 ---
 
@@ -89,3 +77,7 @@ Please complete these before submitting:
 * [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
+
+## Additional Notes
+
+Monkey the Monk was built to help learners convert passive tutorial consumption into structured, disciplined learning through playlist scheduling, focused study sessions, habit tracking, and progress monitoring.
